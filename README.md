@@ -1,5 +1,4 @@
 ## Hi there 👋
-![Image](https://github.com/user-attachments/assets/e5c70bcb-7067-4ade-be1b-e404c3a5814d)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
